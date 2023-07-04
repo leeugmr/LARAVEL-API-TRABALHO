@@ -14,7 +14,7 @@
 
 <div align="left">
   <div align="left">
-    <b><a href="https://youtu.be/XAdVq1nMntM">Link para o vídeo testando a API.</a></b>
+    <b><a href="https://youtu.be/T9bsOGxX6Ps">Link para o vídeo testando a API.</a></b>
 </div>
 
 ---
